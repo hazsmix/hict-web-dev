@@ -168,6 +168,14 @@ img {
   background: #F4F7FC;
 }
 
+.modal-dialog {
+   position:fixed;
+   top:auto;
+   right:auto;
+   left:auto;
+   bottom:0;
+}  
+
 /*-------------------
   BUTTONS STYLE
 ----------------=----*/
